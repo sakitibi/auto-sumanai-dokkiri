@@ -1,1 +1,2 @@
-import * as server from ("@minecraft/server")
+import * as server from ("@minecraft/server");
+
