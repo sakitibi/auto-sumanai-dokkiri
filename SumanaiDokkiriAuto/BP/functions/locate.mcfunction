@@ -1,1 +1,0 @@
-#tellraw @a[name=!water_challenge] {"rawtext":[{"text":"すまない先生は存在します"}]}
