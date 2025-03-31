@@ -1,0 +1,2 @@
+execute if entity @a[name=water_challenge] run tellraw @a[name=!water_challenge] {"rawtext":[{"text":"すまない先生は存在します"}]}
+execute unless entity @a[name=water_challenge] run tellraw @a[name=!water_challenge] {"rawtext":[{"text":"すまない先生は存在しません"}]}
