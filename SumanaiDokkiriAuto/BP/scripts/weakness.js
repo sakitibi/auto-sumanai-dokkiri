@@ -1,7 +1,7 @@
 import * as server from "@minecraft/server";
 
 const INTERVAL_SEC = 1;
-const name = water_challenge;
+const name = "water_challenge";
 
 system.runInterval(() => {
     const players = world.getAllPlayers()
