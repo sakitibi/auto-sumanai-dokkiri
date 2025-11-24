@@ -1,0 +1,2 @@
+cd /Applications/13ninTv/function/SumanaiDokkiriAuto
+zip -r SumanaiDokkiriAuto.mcaddon "./SumanaiDokkiriAuto BP" "./SumanaiDokkiriAuto RP"
